@@ -1,6 +1,7 @@
 git pull
 git add *.sh
 git add *.py
+git add *.txt
 git add Materials/*
 git add */src/*
 git add */*.txt
