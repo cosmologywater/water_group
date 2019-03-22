@@ -1,2 +1,3 @@
 
 # ask ...
+  wxm asks: what's the meaning of comoving coordinate?
