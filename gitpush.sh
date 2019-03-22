@@ -8,5 +8,5 @@ git add */draft/*
 git add */papers/*
 git add */plots/*
 git add README.md
-git commit -m 'add a question from wxm'
+git commit -m 'add a help for freshmen'
 git push
